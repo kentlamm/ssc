@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Standard Story Company",
-    "currentPage": "consultations.html",
+    "currentPage": "work.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -43,7 +43,7 @@
       }
     ],
     "uniqCompNum": 45,
-    "versionPublish": "5.6.11",
+    "versionPublish": "5.7.8",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
