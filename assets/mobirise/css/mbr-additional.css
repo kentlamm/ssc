@@ -2000,6 +2000,19 @@ a {
 .cid-tsv6PFNZFN .mbr-text {
   text-align: center;
 }
+.cid-tsv6PFNZFN .iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+.cid-tsv6PFNZFN .iframe-container iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
 .cid-tsv6Q43Fro {
   padding-top: 0rem;
   padding-bottom: 6rem;
