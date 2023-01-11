@@ -1822,6 +1822,12 @@
             },
             ".mbr-section-title, .mbr-section-subtitle, .mbr-text": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".mbr-text": {
+              "text-align": "right"
             }
           },
           "_name": "video3",
