@@ -134,8 +134,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #e43f3f !important;
-  border-color: #e43f3f !important;
+  background-color: #f71717 !important;
+  border-color: #f71717 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -144,15 +144,15 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #b31919 !important;
-  border-color: #b31919 !important;
+  background-color: #b10606 !important;
+  border-color: #b10606 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #b31919 !important;
-  border-color: #b31919 !important;
+  background-color: #b10606 !important;
+  border-color: #b10606 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -311,13 +311,13 @@ body {
 .btn-secondary-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #e43f3f;
+  color: #f71717;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
-  color: #b31919 !important;
+  color: #b10606 !important;
   background-color: transparent!important;
   border-color: transparent!important;
   box-shadow: none!important;
@@ -325,8 +325,8 @@ body {
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #e43f3f !important;
-  border-color: #e43f3f !important;
+  background-color: #f71717 !important;
+  border-color: #f71717 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -458,7 +458,7 @@ body {
   color: #fccd07 !important;
 }
 .text-secondary {
-  color: #e43f3f !important;
+  color: #f71717 !important;
 }
 .text-success {
   color: #40b0bf !important;
@@ -486,7 +486,7 @@ a.text-primary.active {
 a.text-secondary:hover,
 a.text-secondary:focus,
 a.text-secondary.active {
-  color: #a61717 !important;
+  color: #a20606 !important;
 }
 a.text-success:hover,
 a.text-success:focus,
@@ -646,7 +646,7 @@ blockquote {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #e43f3f !important;
+  background: #f71717 !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -1662,12 +1662,12 @@ a {
   color: #ffffff;
 }
 .cid-ttMxh1DAOU {
-  padding-top: 9rem;
+  padding-top: 7rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-tsAAjRNPMW {
-  padding-top: 3rem;
+  padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
