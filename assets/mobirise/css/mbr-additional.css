@@ -2541,6 +2541,23 @@ a {
     left: -1rem;
   }
 }
+.cid-tAGaz5RBck {
+  padding-top: 7rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tAGaz5RBck .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tAGaz5RBck .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-tAG18IsRXF {
   padding-top: 0px;
   padding-bottom: 0px;
