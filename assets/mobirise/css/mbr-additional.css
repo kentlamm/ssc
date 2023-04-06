@@ -2542,8 +2542,8 @@ a {
   }
 }
 .cid-tAG18IsRXF {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-tAG18IsRXF img {
@@ -2827,7 +2827,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffe161;
+  background-color: #fccd07;
 }
 .cid-tAG5fo3xKn button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
