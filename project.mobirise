@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Standard Story Company",
-    "currentPage": "page5.html",
+    "currentPage": "wrapped.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -3006,7 +3006,7 @@
         }
       ]
     },
-    "page5.html": {
+    "wrapped.html": {
       "settings": {
         "title": "WRAPPED In 30 Days",
         "order": "1"
