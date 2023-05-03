@@ -20,8 +20,8 @@ $to = "standardstoryco@gmail.com";														// To Address
 $toAlt = "";												// Additional Recipients
 $from = "standardstoryco@gmail.com";													// From Address
 $fromName = "Kent Lamm";											// From Name
-$fromThem = ("0" == "1" ? true : false);					// Use Sender as From Address
-$fromThemReplyTo = ("1" == "1" ? true : false);	// Use Sender as Reply-To
+$fromThem = ("1" == "1" ? true : false);					// Use Sender as From Address
+$fromThemReplyTo = ("0" == "1" ? true : false);	// Use Sender as Reply-To
 $fromNameThem = ("0" == "1" ? true : false);			// Use Sender Name as From Name
 $fromNameThemField = "{name}";						// Name of the field(s) that can contain the Sender Name
 $template = "{formdata}";											// Mail Template
@@ -33,7 +33,7 @@ $rcpVersion = "3";								// reCAPTCHA Version
 $rcpScore = "0.5";									// reCAPTCHA Score
 $rcpSecret = "";								// reCAPTCHA Secret Key
 $smtp = ("1" == "1" ? true : false);							// Use SMTP
-$smtpDebug = ("0" == "1" ? 3 : 0);						// SMTP Debug
+$smtpDebug = ("1" == "1" ? 3 : 0);						// SMTP Debug
 $smtpHost = "smtp.gmail.com";											// SMTP Host
 $smtpPort = "587";											// SMTP Port
 $smtpSecure = "tls";										// SMTP Use SSL/TLS (empty, ssl or tls)
