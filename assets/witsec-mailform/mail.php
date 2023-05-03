@@ -22,9 +22,9 @@ $from = "standardstoryco@gmail.com";													// From Address
 $fromName = "Kent Lamm";											// From Name
 $fromThem = ("0" == "1" ? true : false);					// Use Sender as From Address
 $fromThemReplyTo = ("1" == "1" ? true : false);	// Use Sender as Reply-To
-$fromNameThem = ("1" == "1" ? true : false);			// Use Sender Name as From Name
+$fromNameThem = ("0" == "1" ? true : false);			// Use Sender Name as From Name
 $fromNameThemField = "{name}";						// Name of the field(s) that can contain the Sender Name
-$template = "{formdata}<br><br>Date: {date}";											// Mail Template
+$template = "{formdata}";											// Mail Template
 $autorespondSubjectPrefix = "Re:";			// Autorespond Form Subject Prefix
 $autorespondSubject = "";						// Autorespond Custom Subject
 $autorespondTemplate = "Hi {name},<br><br>Thank you for your message. I'll get back to you as soon as I can.<br>Here's the information you sent me:<br><br>{formdata}<br><br>---<br>Have a nice day.";					// Autorespond Template

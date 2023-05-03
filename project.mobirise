@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Standard Story Company",
-    "currentPage": "contact.html",
+    "currentPage": "consultations.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,7 +49,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "ue415igir6",
+    "mbrsiteDomain": "psfytvqfah",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -64,9 +64,9 @@
     "witsec-mailform-from-them": false,
     "witsec-mailform-from-them-replyto": true,
     "witsec-mailform-from-name": "Kent Lamm",
-    "witsec-mailform-from-name-them": true,
+    "witsec-mailform-from-name-them": false,
     "witsec-mailform-from-name-them-field": "{name}",
-    "witsec-mailform-template": "{formdata}\n\nDate: {date}",
+    "witsec-mailform-template": "{formdata}",
     "witsec-mailform-autorespond-subjectprefix": "Re:",
     "witsec-mailform-autorespond-subject": "",
     "witsec-mailform-autorespond-template": "Hi {name},\n\nThank you for your message. I'll get back to you as soon as I can.\nHere's the information you sent me:\n\n{formdata}\n\n---\nHave a nice day.",
@@ -75,7 +75,7 @@
     "witsec-mailform-recaptcha-sitekey": "",
     "witsec-mailform-recaptcha-secretkey": "",
     "witsec-mailform-recaptcha-score": "0.5",
-    "witsec-mailform-disable-button": false,
+    "witsec-mailform-disable-button": true,
     "witsec-mailform-smtp": false,
     "witsec-mailform-smtp-debug": false,
     "witsec-mailform-smtp-host": "",
