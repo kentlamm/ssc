@@ -20,9 +20,9 @@ $to = "kent@standardstoryco.com";														// To Address
 $toAlt = "";												// Additional Recipients
 $from = "kent@standardstoryco.com";													// From Address
 $fromName = "Website Contact";											// From Name
-$fromThem = ("1" == "1" ? true : false);					// Use Sender as From Address
-$fromThemReplyTo = ("0" == "1" ? true : false);	// Use Sender as Reply-To
-$fromNameThem = ("1" == "1" ? true : false);			// Use Sender Name as From Name
+$fromThem = ("0" == "1" ? true : false);					// Use Sender as From Address
+$fromThemReplyTo = ("1" == "1" ? true : false);	// Use Sender as Reply-To
+$fromNameThem = ("0" == "1" ? true : false);			// Use Sender Name as From Name
 $fromNameThemField = "{name}";						// Name of the field(s) that can contain the Sender Name
 $template = "{formdata}";											// Mail Template
 $autorespondSubjectPrefix = "Re:";			// Autorespond Form Subject Prefix
