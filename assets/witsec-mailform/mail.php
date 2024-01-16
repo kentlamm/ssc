@@ -19,7 +19,7 @@ foreach (["PHPMailer.php", "Exception.php", "SMTP.php"] as $f) {
 $to = "kent@standardstoryco.com";														// To Address
 $toAlt = "";												// Additional Recipients
 $from = "kent@standardstoryco.com";													// From Address
-$fromName = "{name}";											// From Name
+$fromName = "Website Contact";											// From Name
 $fromThem = ("1" == "1" ? true : false);					// Use Sender as From Address
 $fromThemReplyTo = ("0" == "1" ? true : false);	// Use Sender as Reply-To
 $fromNameThem = ("1" == "1" ? true : false);			// Use Sender Name as From Name
