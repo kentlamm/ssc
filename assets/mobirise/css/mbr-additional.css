@@ -2520,32 +2520,8 @@ a {
     left: -1rem;
   }
 }
-.cid-tDeH8YQJ2x {
-  padding-top: 10rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-tDeH8YQJ2x .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-tDeH8YQJ2x form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-tDeH8YQJ2x form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-tDeH8YQJ2x form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-tDeH8YQJ2x textarea {
-  min-height: 10rem;
-}
 .cid-u1yLSnBjk1 {
-  padding-top: 4rem;
+  padding-top: 8rem;
   padding-bottom: 4rem;
   background-color: #ffffff;
 }
