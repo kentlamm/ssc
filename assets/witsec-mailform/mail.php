@@ -29,9 +29,9 @@ $autorespondSubjectPrefix = "Re:";			// Autorespond Form Subject Prefix
 $autorespondSubject = "";						// Autorespond Custom Subject
 $autorespondTemplate = "Hi {name},<br><br>Thank you for your message. I'll get back to you as soon as I can.<br>Here's the information you sent me:<br><br>{formdata}<br><br>---<br>Have a nice day.";					// Autorespond Template
 $rcp = ("1" == "1" ? true : false);						// Use reCAPTCHA
-$rcpVersion = "captcha";								// reCAPTCHA Version
+$rcpVersion = "3";								// reCAPTCHA Version
 $rcpScore = "0.5";									// reCAPTCHA Score
-$rcpSecret = "";								// reCAPTCHA Secret Key
+$rcpSecret = "6LeNDVMpAAAAAJTqHo5WZoTasXMtOym5uUPpiDZN";								// reCAPTCHA Secret Key
 $smtp = ("1" == "1" ? true : false);							// Use SMTP
 $smtpDebug = ("1" == "1" ? 3 : 0);						// SMTP Debug
 $smtpHost = "smtp.porkbun.com";											// SMTP Host
