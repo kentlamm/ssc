@@ -4999,11 +4999,14 @@ a {
     left: -1rem;
   }
 }
-.cid-u2S7RxCMAO {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: white;
+.cid-loBbPU3DP9 {
+  padding-top: 8rem;
+  padding-bottom: 1rem;
+  background-color: #fff0b0;
 }
-.cid-u2S7RxCMAO img {
-  width: auto;
+.cid-loBbPU3DP9 .mbr-section-title {
+  text-align: center;
+}
+.cid-loBbPU3DP9 .frame {
+  min-height: 800px;
 }
